@@ -1,17 +1,67 @@
-# whatsappui
+# WhatsApp-Inspired Chat UI using Flutter
 
-A new Flutter project.
+A WhatsApp-inspired chat interface built using **Flutter and Dart** as my first Flutter UI project.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Dark-themed chat interface
+- WhatsApp-inspired AppBar
+- Search bar
+- Chat filters:
+  - All
+  - Unread
+  - Favourites
+  - Groups
+- Archived chats section
+- Chat list with names, messages, and timestamps
+- Custom profile avatars with different colors
+- Bottom navigation:
+  - Chats
+  - Updates
+  - Communities
+  - Calls
+- Reusable UI components
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Material UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📚 Flutter Concepts Practiced
+
+Through this project, I practiced:
+
+- Scaffold
+- AppBar
+- ListView
+- ListTile
+- Row and Column
+- Container
+- CircleAvatar
+- Icons
+- BoxDecoration
+- Reusable functions
+- Flutter widget structure
+- Dark-themed UI design
+
+## 🎯 Project Status
+
+This project currently focuses on **UI design and Flutter fundamentals**.
+
+It does not include real-time messaging, authentication, or backend integration.
+
+## 🎥 Demo
+
+A video demonstration of the UI is available as part of the project showcase.
+
+## 👩‍💻 Author
+
+**Muskan Manjiani**
+
+Computer Science Student  
+DHA Suffa University
+
+---
+
+⭐ This project is part of my learning journey in Flutter and mobile app development.
