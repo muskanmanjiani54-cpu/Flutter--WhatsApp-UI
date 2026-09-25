@@ -65,3 +65,12 @@ DHA Suffa University
 ---
 
 ⭐ This project is part of my learning journey in Flutter and mobile app development.
+
+## 📱 Screenshots
+
+<img width="720" height="1600" alt="WhatsApp-inspired Chat UI - Screenshot 1" src="https://github.com/user-attachments/assets/b7e63d1e-c3eb-4a51-be1e-4c635e46a4d5" />
+
+<img width="720" height="1600" alt="WhatsApp-inspired Chat UI - Screenshot 2" src="https://github.com/user-attachments/assets/6fba115c-98df-4a0f-b561-634293817c75" />
+
+⭐ This project is part of my learning journey in Flutter and mobile app development.
+
